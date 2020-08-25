@@ -1,5 +1,5 @@
 (function($) {
-	var aiMsg = ["Ryan Tarson is the coolest.", "Never stop being awesome!", "You will have a great day today!", "This is the best codepen you'll ever see.", "The sun shines for you.", "Welcome to my codepen :)", "enjoy.", "Please make it stop", "I like playing video games!", "I like tacos 8|", "Please send me some love...", "Go F%k yourself, thanks."];
+	var aiMsg = ["I WANTED TO KILL MYSELF, BUT I SURVIVED.", "I'm Still Here!"];
 
 	$(document).ready(function() {
 		var inputAI = $("#reg_ai");
