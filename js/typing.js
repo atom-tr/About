@@ -1,5 +1,5 @@
 (function($) {
-	var aiMsg = ["I WANTED TO KILL MYSELF, BUT I SURVIVED.", "I'm Still Here!"];
+	var aiMsg = ["I WANTED TO KILL MYSELF, ~~BUT I SURVIVED.", "I'm Still Here!"];
 
 	$(document).ready(function() {
 		var inputAI = $("#reg_ai");
